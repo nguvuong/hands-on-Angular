@@ -1,0 +1,3 @@
+[submodule "firstAppAngular"]
+	path = firstAppAngular
+	url = https://github.com/nguvuong/firstAppAngular
